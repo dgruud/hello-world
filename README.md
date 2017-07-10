@@ -7,3 +7,5 @@ How did I get here?
 Whaaaaat?!
 But I didn't want to commit directly to the Master Branch.
 ok now i have created a branch i think
+
+Beginning to see how it's supposed to work.
